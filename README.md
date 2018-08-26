@@ -2,6 +2,6 @@
 for workshop in mfu
 First
 Fluk
-Net
+Knes
 Q
 Tao
